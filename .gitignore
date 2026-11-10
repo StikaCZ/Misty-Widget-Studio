@@ -1,0 +1,27 @@
+# Secrets and local settings should never be committed
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+*.p12
+*.pfx
+*.token
+*credentials*
+*secrets*
+id_ed25519*
+id_rsa*
+__pycache__/
+*.pyc
+.venv/
+venv/
+*.zip
+*.tar*
+*.bak
+*.log
+*~
+.local/
+.config/
+backups/
+plasmashellrc
+plasma-org.kde.plasma.desktop-appletsrc

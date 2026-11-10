@@ -1,0 +1,18 @@
+{
+  "KPlugin": {
+    "Id": "local.samuel.weatherorbit",
+    "Name": "Misty Weather Orbit",
+    "Description": "Weather forecast with vector planet artwork and optional Open-Meteo city lookup.",
+    "Icon": "weather-clouds",
+    "Category": "Environment and Weather",
+    "Version": "4.6.1-beta",
+    "License": "MIT",
+    "Authors": [
+      {
+        "Name": "stika CZ"
+      }
+    ]
+  },
+  "KPackageStructure": "Plasma/Applet",
+  "X-Plasma-API-Minimum-Version": "6.0"
+}

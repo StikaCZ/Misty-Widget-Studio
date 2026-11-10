@@ -1,0 +1,18 @@
+{
+  "KPackageStructure": "Plasma/Applet",
+  "X-Plasma-API-Minimum-Version": "6.0",
+  "KPlugin": {
+    "Id": "local.samuel.pets.unified",
+    "Name": "Misty Living Desktop Pets",
+    "Description": "Animated pixel and terminal desktop pets: Tux, gecko and slime.",
+    "Category": "Fun and Games",
+    "Icon": "face-smile",
+    "License": "MIT",
+    "Version": "4.6.1-beta",
+    "Authors": [
+      {
+        "Name": "stika CZ"
+      }
+    ]
+  }
+}

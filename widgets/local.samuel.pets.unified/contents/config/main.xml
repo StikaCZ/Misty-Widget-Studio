@@ -1,0 +1,114 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kcfg xmlns="http://www.kde.org/standards/kcfg/1.0">
+  <kcfgfile name="" />
+  <group name="General">
+    <entry name="widgetStyle" type="String">
+      <default>normal</default>
+    </entry>
+    <entry name="accentColor" type="String">
+      <default>#9FB6A2</default>
+    </entry>
+    <entry name="glassOpacity" type="Int">
+      <default>78</default>
+    </entry>
+    <entry name="cornerRadius" type="Int">
+      <default>18</default>
+    </entry>
+    <entry name="textScale" type="Int">
+      <default>100</default>
+    </entry>
+    <entry name="lowPower" type="Bool">
+      <default>true</default>
+    </entry>
+    <entry name="pet" type="String">
+      <default>penguin</default>
+    </entry>
+    <entry name="trackWidth" type="Int">
+      <default>260</default>
+    </entry>
+    <entry name="speed" type="Int">
+      <default>2</default>
+    </entry>
+    <entry name="petSize" type="Int">
+      <default>100</default>
+    </entry>
+    <entry name="petHeight" type="Int">
+      <default>48</default>
+    </entry>
+    <entry name="activityLevel" type="Int">
+      <default>3</default>
+    </entry>
+    <entry name="allowSleep" type="Bool">
+      <default>true</default>
+    </entry>
+    <entry name="allowSurprises" type="Bool">
+      <default>true</default>
+    </entry>
+    <entry name="clickToPlay" type="Bool">
+      <default>true</default>
+    </entry>
+    <entry name="reactToHover" type="Bool">
+      <default>true</default>
+    </entry>
+    <entry name="showPetStatus" type="Bool">
+      <default>true</default>
+    </entry>
+    <entry name="trackColor" type="String">
+      <default>#101518</default>
+    </entry>
+    <entry name="outlineColor" type="String">
+      <default>#56646a</default>
+    </entry>
+    <entry name="glowColor" type="String">
+      <default>#7aafb8</default>
+    </entry>
+    <entry name="trackOpacity" type="Int">
+      <default>0</default>
+    </entry>
+    <entry name="outlineOpacity" type="Int">
+      <default>0</default>
+    </entry>
+    <entry name="spriteOpacity" type="Int">
+      <default>100</default>
+    </entry>
+    <entry name="trackRadius" type="Int">
+      <default>12</default>
+    </entry>
+    <entry name="showGlow" type="Bool">
+      <default>false</default>
+    </entry>
+    <entry name="showShadow" type="Bool">
+      <default>false</default>
+    </entry>
+    <entry name="widgetOpacity" type="Int">
+      <default>100</default>
+    </entry>
+    <entry name="glassTint" type="String">
+      <default>#899EBB</default>
+    </entry>
+    <entry name="glassBlur" type="Int">
+      <default>45</default>
+    </entry>
+    <entry name="studioUseColours" type="Bool">
+      <default>false</default>
+    </entry>
+    <entry name="studioThemeText" type="String">
+      <default>#E8F0EC</default>
+    </entry>
+    <entry name="studioThemeMuted" type="String">
+      <default>#A7B3AD</default>
+    </entry>
+    <entry name="studioThemeAccent" type="String">
+      <default>#93BFA7</default>
+    </entry>
+    <entry name="studioThemeSecondary" type="String">
+      <default>#92A9D7</default>
+    </entry>
+    <entry name="studioThemeSurface" type="String">
+      <default>#1A2429</default>
+    </entry>
+    <entry name="studioThemeBorder" type="String">
+      <default>#6B8285</default>
+    </entry>
+  </group>
+</kcfg>

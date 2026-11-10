@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:kcfg xmlns:ns0="http://www.kde.org/standards/kcfg/1.0">
+  <ns0:kcfgfile name="" />
+  <ns0:group name="General">
+    <ns0:entry name="widgetStyle" type="String">
+      <ns0:default>normal</ns0:default>
+    </ns0:entry>
+    <ns0:entry name="accentColor" type="String">
+      <ns0:default>#9FB6A2</ns0:default>
+    </ns0:entry>
+    <ns0:entry name="glassOpacity" type="Int">
+      <ns0:default>78</ns0:default>
+    </ns0:entry>
+    <ns0:entry name="cornerRadius" type="Int">
+      <ns0:default>18</ns0:default>
+    </ns0:entry>
+    <ns0:entry name="textScale" type="Int">
+      <ns0:default>100</ns0:default>
+    </ns0:entry>
+    <ns0:entry name="lowPower" type="Bool">
+      <ns0:default>true</ns0:default>
+    </ns0:entry>
+    <ns0:entry name="widgetOpacity" type="Int">
+      <ns0:default>100</ns0:default>
+    </ns0:entry>
+    <ns0:entry name="glassTint" type="String">
+      <ns0:default>#899EBB</ns0:default>
+    </ns0:entry>
+    <ns0:entry name="glassBlur" type="Int">
+      <ns0:default>45</ns0:default>
+    </ns0:entry>
+    <ns0:entry name="studioUseColours" type="Bool">
+      <ns0:default>false</ns0:default>
+    </ns0:entry>
+    <ns0:entry name="studioThemeText" type="String">
+      <ns0:default>#E8F0EC</ns0:default>
+    </ns0:entry>
+    <ns0:entry name="studioThemeMuted" type="String">
+      <ns0:default>#A7B3AD</ns0:default>
+    </ns0:entry>
+    <ns0:entry name="studioThemeAccent" type="String">
+      <ns0:default>#93BFA7</ns0:default>
+    </ns0:entry>
+    <ns0:entry name="studioThemeSecondary" type="String">
+      <ns0:default>#92A9D7</ns0:default>
+    </ns0:entry>
+    <ns0:entry name="studioThemeSurface" type="String">
+      <ns0:default>#1A2429</ns0:default>
+    </ns0:entry>
+    <ns0:entry name="studioThemeBorder" type="String">
+      <ns0:default>#6B8285</ns0:default>
+    </ns0:entry>
+    <ns0:entry name="clockMode" type="String">
+      <ns0:default>classic</ns0:default>
+    </ns0:entry>
+    <ns0:entry name="clockFontFamily" type="String">
+      <ns0:default>JetBrains Mono</ns0:default>
+    </ns0:entry>
+    <ns0:entry name="clockCustomFont" type="String">
+      <ns0:default />
+    </ns0:entry>
+    <ns0:entry name="clockScale" type="Int">
+      <ns0:default>100</ns0:default>
+    </ns0:entry>
+    <ns0:entry name="clockShowDate" type="Bool">
+      <ns0:default>true</ns0:default>
+    </ns0:entry>
+    <ns0:entry name="clockShowCaption" type="Bool">
+      <ns0:default>true</ns0:default>
+    </ns0:entry>
+    <ns0:entry name="clockSecondsHand" type="Bool">
+      <ns0:default>true</ns0:default>
+    </ns0:entry>
+    <ns0:entry name="clockFaceColor" type="String">
+      <ns0:default>#162326</ns0:default>
+    </ns0:entry>
+    <ns0:entry name="clockHandsColor" type="String">
+      <ns0:default>#E8F0EC</ns0:default>
+    </ns0:entry>
+    <ns0:entry name="clockSecondColor" type="String">
+      <ns0:default>#94C6A9</ns0:default>
+    </ns0:entry>
+  </ns0:group>
+</ns0:kcfg>

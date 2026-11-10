@@ -1,0 +1,18 @@
+{
+  "KPackageStructure": "Plasma/Applet",
+  "X-Plasma-API-Minimum-Version": "6.0",
+  "KPlugin": {
+    "Id": "local.samuel.livingmoon",
+    "Name": "Misty Living Moon",
+    "Description": "Ambient moon visualisation for KDE Plasma.",
+    "Category": "Date and Time",
+    "Icon": "weather-clear-night",
+    "Version": "4.6.1-beta",
+    "License": "MIT",
+    "Authors": [
+      {
+        "Name": "stika CZ"
+      }
+    ]
+  }
+}

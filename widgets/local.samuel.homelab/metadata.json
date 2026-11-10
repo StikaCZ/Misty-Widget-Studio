@@ -1,0 +1,18 @@
+{
+  "KPackageStructure": "Plasma/Applet",
+  "X-Plasma-API-Minimum-Version": "6.0",
+  "KPlugin": {
+    "Id": "local.samuel.homelab",
+    "Name": "Misty Homelab",
+    "Description": "Opt-in read-only SSH monitoring for Debian/Linux homelabs.",
+    "Category": "System Information",
+    "Icon": "utilities-system-monitor",
+    "Version": "4.6.1-beta",
+    "License": "MIT",
+    "Authors": [
+      {
+        "Name": "stika CZ"
+      }
+    ]
+  }
+}

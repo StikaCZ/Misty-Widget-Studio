@@ -1,0 +1,18 @@
+{
+  "KPackageStructure": "Plasma/Applet",
+  "KPlugin": {
+    "Id": "local.samuel.rgbcontrol",
+    "Name": "Misty RGB Control",
+    "Description": "OpenRGB lighting control interface; requires a separately configured hardware helper.",
+    "Icon": "preferences-desktop-color",
+    "Category": "Utilities",
+    "Version": "4.6.1-beta",
+    "License": "MIT",
+    "Authors": [
+      {
+        "Name": "stika CZ"
+      }
+    ]
+  },
+  "X-Plasma-API-Minimum-Version": "6.0"
+}

@@ -1,0 +1,18 @@
+{
+  "KPackageStructure": "Plasma/Applet",
+  "X-Plasma-API-Minimum-Version": "6.0",
+  "KPlugin": {
+    "Id": "local.samuel.forestclock",
+    "Name": "Misty Forest Clock",
+    "Description": "Configurable clock with seven faces, fonts, colours and appearance presets.",
+    "Category": "System Information",
+    "Icon": "utilities-system-monitor",
+    "Version": "4.6.1-beta",
+    "License": "MIT",
+    "Authors": [
+      {
+        "Name": "stika CZ"
+      }
+    ]
+  }
+}

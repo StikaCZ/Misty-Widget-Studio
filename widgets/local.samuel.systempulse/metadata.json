@@ -1,0 +1,18 @@
+{
+  "KPackageStructure": "Plasma/Applet",
+  "X-Plasma-API-Minimum-Version": "6.0",
+  "KPlugin": {
+    "Id": "local.samuel.systempulse",
+    "Name": "Misty System Pulse",
+    "Description": "Local hardware-aware CPU/GPU monitor; matching processor and graphics artwork.",
+    "Category": "System Information",
+    "Icon": "utilities-system-monitor",
+    "Version": "4.6.9-beta",
+    "License": "MIT",
+    "Authors": [
+      {
+        "Name": "stika CZ"
+      }
+    ]
+  }
+}

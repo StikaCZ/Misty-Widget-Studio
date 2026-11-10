@@ -1,0 +1,18 @@
+{
+  "KPackageStructure": "Plasma/Applet",
+  "X-Plasma-API-Minimum-Version": "6.0",
+  "KPlugin": {
+    "Id": "local.samuel.asciiaquarium",
+    "Name": "Misty ASCII Aquarium",
+    "Description": "Animated terminal-inspired fish tank with configurable colours and styles.",
+    "Category": "Fun and Games",
+    "Icon": "weather-showers",
+    "License": "MIT",
+    "Version": "4.6.1-beta",
+    "Authors": [
+      {
+        "Name": "stika CZ"
+      }
+    ]
+  }
+}

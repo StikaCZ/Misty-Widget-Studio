@@ -1,0 +1,18 @@
+{
+  "KPackageStructure": "Plasma/Applet",
+  "X-Plasma-API-Minimum-Version": "6.0",
+  "KPlugin": {
+    "Id": "local.samuel.pinkcoderain",
+    "Name": "Misty Pink Code Rain",
+    "Description": "Animated terminal-style falling character display.",
+    "Category": "Fun and Games",
+    "Icon": "utilities-terminal",
+    "License": "MIT",
+    "Version": "4.6.1-beta",
+    "Authors": [
+      {
+        "Name": "stika CZ"
+      }
+    ]
+  }
+}

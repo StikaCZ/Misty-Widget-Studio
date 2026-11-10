@@ -1,0 +1,18 @@
+{
+  "KPlugin": {
+    "Id": "local.samuel.terrariaicewatch",
+    "Name": "Misty Terraria Ice Watch",
+    "Description": "Terraria-themed read-only server status; optional SSH configuration.",
+    "Category": "System Information",
+    "Icon": "weather-snow",
+    "Version": "4.6.1-beta",
+    "License": "MIT",
+    "Authors": [
+      {
+        "Name": "stika CZ"
+      }
+    ]
+  },
+  "KPackageStructure": "Plasma/Applet",
+  "X-Plasma-API-Minimum-Version": "6.0"
+}

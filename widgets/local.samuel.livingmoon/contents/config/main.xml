@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kcfg xmlns="http://www.kde.org/standards/kcfg/1.0">
+  <kcfgfile name="" />
+  <group name="General">
+    <entry name="studioUseColours" type="Bool">
+      <default>false</default>
+    </entry>
+    <entry name="studioThemeText" type="String">
+      <default>#E8F0EC</default>
+    </entry>
+    <entry name="studioThemeMuted" type="String">
+      <default>#A7B3AD</default>
+    </entry>
+    <entry name="studioThemeAccent" type="String">
+      <default>#93BFA7</default>
+    </entry>
+    <entry name="studioThemeSecondary" type="String">
+      <default>#92A9D7</default>
+    </entry>
+    <entry name="studioThemeSurface" type="String">
+      <default>#1A2429</default>
+    </entry>
+    <entry name="studioThemeBorder" type="String">
+      <default>#6B8285</default>
+    </entry>
+  </group>
+</kcfg>

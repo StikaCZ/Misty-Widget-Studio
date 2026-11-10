@@ -1,0 +1,18 @@
+{
+  "KPlugin": {
+    "Id": "local.samuel.brightnessslate",
+    "Name": "Misty Brightness Slate",
+    "Description": "Local laptop backlight control on compatible Linux systems.",
+    "Icon": "display-brightness",
+    "Category": "Utilities",
+    "Version": "4.6.1-beta",
+    "License": "MIT",
+    "Authors": [
+      {
+        "Name": "stika CZ"
+      }
+    ]
+  },
+  "KPackageStructure": "Plasma/Applet",
+  "X-Plasma-API-Minimum-Version": "6.0"
+}
