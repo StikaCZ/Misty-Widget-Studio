@@ -1,0 +1,125 @@
+{
+  "version": "4.7.1-beta",
+  "repository": "StikaCZ/Misty-Widget-Studio",
+  "widgets": [
+    {
+      "id": "local.samuel.asciiaquarium",
+      "name": "Misty ASCII Aquarium",
+      "emoji": "🐟",
+      "description": "A tiny terminal-style aquarium on your desktop.",
+      "file": "Misty-ASCII-Aquarium-4.7.1-beta.plasmoid"
+    },
+    {
+      "id": "local.samuel.brightnessslate",
+      "name": "Misty Brightness Slate",
+      "emoji": "☀️",
+      "description": "Brightness controls for supported monitors.",
+      "file": "Misty-Brightness-Slate-4.7.1-beta.plasmoid"
+    },
+    {
+      "id": "local.samuel.forestclock",
+      "name": "Misty Forest Clock",
+      "emoji": "🕐",
+      "description": "A customisable clock with multiple font styles.",
+      "file": "Misty-Forest-Clock-4.7.1-beta.plasmoid"
+    },
+    {
+      "id": "local.samuel.homelab",
+      "name": "Misty Homelab",
+      "emoji": "🖥️",
+      "description": "Easy Debian connection with automatic running-server detection.",
+      "file": "Misty-Homelab-4.7.1-beta.plasmoid"
+    },
+    {
+      "id": "local.samuel.launchslate",
+      "name": "Misty Launch Slate",
+      "emoji": "🚀",
+      "description": "A compact application launcher.",
+      "file": "Misty-Launch-Slate-4.7.1-beta.plasmoid"
+    },
+    {
+      "id": "local.samuel.livingmoon",
+      "name": "Misty Living Moon",
+      "emoji": "🌙",
+      "description": "A gentle live illustration of the lunar phase.",
+      "file": "Misty-Living-Moon-4.7.1-beta.plasmoid"
+    },
+    {
+      "id": "local.samuel.networkradar",
+      "name": "Misty Network Radar",
+      "emoji": "📡",
+      "description": "Your connection and network stats at a glance.",
+      "file": "Misty-Network-Radar-4.7.1-beta.plasmoid"
+    },
+    {
+      "id": "local.samuel.noteslate",
+      "name": "Misty Notes Slate",
+      "emoji": "📝",
+      "description": "A small and simple desktop notepad.",
+      "file": "Misty-Notes-Slate-4.7.1-beta.plasmoid"
+    },
+    {
+      "id": "local.samuel.pets.unified",
+      "name": "Misty Living Desktop Pets",
+      "emoji": "🐧",
+      "description": "Little animated penguin, gecko and slime companions.",
+      "file": "Misty-Living-Desktop-Pets-4.7.1-beta.plasmoid"
+    },
+    {
+      "id": "local.samuel.pinkcoderain",
+      "name": "Misty Pink Code Rain",
+      "emoji": "⌨️",
+      "description": "Animated terminal-inspired falling code.",
+      "file": "Misty-Pink-Code-Rain-4.7.1-beta.plasmoid"
+    },
+    {
+      "id": "local.samuel.rgbcontrol",
+      "name": "Misty RGB Control",
+      "emoji": "💡",
+      "description": "Custom RGB controls with optional external helper.",
+      "file": "Misty-RGB-Control-4.7.1-beta.plasmoid"
+    },
+    {
+      "id": "local.samuel.storagevault",
+      "name": "Misty Storage Vault",
+      "emoji": "💾",
+      "description": "A quick overview of your storage devices.",
+      "file": "Misty-Storage-Vault-4.7.1-beta.plasmoid"
+    },
+    {
+      "id": "local.samuel.systempulse",
+      "name": "Misty System Pulse",
+      "emoji": "📈",
+      "description": "CPU, GPU, RAM and hardware activity.",
+      "file": "Misty-System-Pulse-4.7.1-beta.plasmoid"
+    },
+    {
+      "id": "local.samuel.terrariaicewatch",
+      "name": "Misty Terraria Ice Watch",
+      "emoji": "❄️",
+      "description": "A Terraria-inspired icy system monitor.",
+      "file": "Misty-Terraria-Ice-Watch-4.7.1-beta.plasmoid"
+    },
+    {
+      "id": "local.samuel.updateplant",
+      "name": "Misty Update Plant",
+      "emoji": "🌱",
+      "description": "The original leafy plant reacts to package updates.",
+      "file": "Misty-Update-Plant-4.7.1-beta.plasmoid"
+    },
+    {
+      "id": "local.samuel.weatherorbit",
+      "name": "Misty Weather Orbit",
+      "emoji": "🌤️",
+      "description": "Weather presented as an animated little planet.",
+      "file": "Misty-Weather-Orbit-4.7.1-beta.plasmoid"
+    },
+    {
+      "id": "local.stikacz.cdplayer",
+      "name": "Misty CD Player",
+      "emoji": "💿",
+      "description": "Animated CD music player and playback controls.",
+      "file": "Misty-CD-Player-4.7.1-beta.plasmoid"
+    }
+  ]
+}
